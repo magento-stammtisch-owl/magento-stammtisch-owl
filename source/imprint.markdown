@@ -4,13 +4,14 @@ title: Impressum
 
 ## Impressum
 
-Die Webentwickler Paderborn sind eine private Initiative von Adrian Fahle, Johannes Lattrich, Max Effenberger, Stefan Löhers und Moritz Breit.
+Die Webentwickler Paderborn sind eine private Initiative von Sebastian Ringel.
 
 ### Verantwortlich:
 
-Moritz Breit <br />
-Karl-Wehrhan-Str. 17 <br />
-32758 Detmold
+maxcluster GmbH<br>
+Sebastian Ringel<br />
+Technologiepark 19<br />
+33100 Paderborn
 
-**Telefon:** 05231 5004000<br />
-**Email:** mail@moritz-breit.de
+**Telefon:** 05251 414130<br />
+**Email:** info@maxcluster.de
