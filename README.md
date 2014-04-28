@@ -1,7 +1,7 @@
-webentwickler-paderborn.de
-==========================
+magento-stammtisch-paderborn
+============================
 
-Jekyll-basierte Webseite der Webentwickler Paderborn
+Jekyll-basierte Webseite des Magento Stammtisch Paderborn
 
 Setup
 -----
