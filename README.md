@@ -1,7 +1,7 @@
-magento-stammtisch-owl
+Magento Stammtisch OWL
 ======================
 
-Jekyll-basierte Webseite des Magento Stammtisch OWL
+Middleman-basierte Webseite des Magento Stammtisch OWL
 
 Setup
 -----
