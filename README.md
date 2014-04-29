@@ -1,7 +1,7 @@
-magento-stammtisch-paderborn
-============================
+magento-stammtisch-owl
+======================
 
-Jekyll-basierte Webseite des Magento Stammtisch Paderborn
+Jekyll-basierte Webseite des Magento Stammtisch OWL
 
 Setup
 -----
