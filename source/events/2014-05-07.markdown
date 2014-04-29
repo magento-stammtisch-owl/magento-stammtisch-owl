@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Magento-Stammtisch am 07.05.2014 um 19 Uhr"
+date:   2014-04-29 12:53:30
+event-date: 2014-05-07 19:00:00+01:00
+location: Raum F im Bistro Technologiepark 13
+location-text: Raum F am Bistro im Technologiepark 13
+address: Technologiepark 13, Paderborn
+topics: Schritt für Schritt zur Internationalisierung (mash2) und Meet Magento Diskussionsrunde
+categories: events
+---
+
+* Schritt für Schritt zur Internationalisierung – Vortrag mash2
+* Meet Magento - Diskussionsrunde
+
+### Location
+
+[Raum F am Bistro im Technologiepark 13](http://technologiepark-paderborn.de/) - Technologiepark 13
