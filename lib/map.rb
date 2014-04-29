@@ -29,7 +29,7 @@ module MapHelpers
         #{image_tag image}
         <span class="map-links">
           <a href="http://www.openstreetmap.org/?mlat=#{result.latitude}&amp;mlon=#{result.longitude}&amp;zoom=16">Openstreetmap</a>
-          <a href="http://maps.google.com/maps?q=#{ERB::Util.url_encode("#{location}, #{address}")}&amp;ll=#{result.latitude},#{result.longitude}&amp;t=m&amp;z=16">Google Maps</a>
+          <a href="http://maps.google.com/maps?q=#{ERB::Util.url_encode("#{address}")}&amp;ll=#{result.latitude},#{result.longitude}&amp;t=m&amp;z=16">Google Maps</a>
         </span>
         <span class="attribution">
           &copy; <a href="http://www.openstreetmap.org">OpenStreetMap</a> contributors,
