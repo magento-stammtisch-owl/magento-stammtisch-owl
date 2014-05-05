@@ -6,7 +6,7 @@ event-date: 2014-05-07 19:00:00+02:00
 location: Raum F im Bistro Technologiepark 13
 location-text: Raum F am Bistro im Technologiepark 13
 address: Technologiepark 13, 33100 Paderborn
-topics: Schritt für Schritt zur Internationalisierung (mash2) und Meet Magento Diskussionsrunde
+topics: Magento Multistore Best Practice und Meet Magento Diskussionsrunde
 categories: events
 ---
 
