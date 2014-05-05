@@ -12,6 +12,7 @@ categories: events
 
 * State of the art deployment for magento
 * Meet Magento - Diskussionsrunde
+* Ausführlich unter: http://www.mash2.com/magento/stammtisch/1-magento-stammtisch-paderborn/
 
 ### Location
 
