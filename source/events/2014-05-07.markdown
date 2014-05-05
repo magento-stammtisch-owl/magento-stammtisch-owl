@@ -10,7 +10,7 @@ topics: Magento Multistore Best Practice und Meet Magento Diskussionsrunde
 categories: events
 ---
 
-* Schritt für Schritt zur Internationalisierung – Vortrag mash2
+* Magento Multistore Best Practice – Vortrag mash2
 * Meet Magento - Diskussionsrunde
 
 ### Location
