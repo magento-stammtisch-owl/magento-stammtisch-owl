@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Magento-Stammtisch am 07.05.2014 um 19 Uhr"
-date:   2014-04-29 12:53:30
-event-date: 2014-05-07 19:00:00+02:00
+title:  "Magento-Stammtisch am 02.07.2014 um 19 Uhr"
+date:   2014-06-13 15:03:30
+event-date: 2014-07-02 19:00:00+02:00
 location: im Raum F des "Bistro",Technologiepark 13
 location-text: im Raum F des "Bistro", Technologiepark 13
 address: Technologiepark 13, 33100 Paderborn
@@ -10,8 +10,8 @@ topics: Magento Multistore Best Practice und Meet Magento Diskussionsrunde
 categories: events
 ---
 
-* Magento Multistore Best Practice – Vortrag mash2
-* Meet Magento - Diskussionsrunde
+* Magento Entwickler Thema
+* Magento Business Thema
 
 ### Location
 
