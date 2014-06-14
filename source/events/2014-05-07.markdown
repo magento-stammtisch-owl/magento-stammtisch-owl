@@ -16,3 +16,33 @@ categories: events
 ### Location
 
 [Raum F am Bistro im Technologiepark 13](http://technologiepark-paderborn.de/) - Technologiepark 13, 33100 Paderborn
+
+### 2. Magento Stammtisch OWL
+
+Am 7. Mai fand der OWL Magento Stammtisch bereits zum zweiten Mal in Paderborn statt.  Der gut ausgestattete Konferenzraum im Cafe-Bistro im Paderborner Technologiepark erwies sich als für alle Teilnehmer bequem erreichbar.  Deshalb kurze Absprache und schon war die Location auch für zukünftige Paderborner Stammtische bestimmt.
+
+Mit einem Dutzend Teilnehmer war die Community gut genug vertreten, um einen fundierten Wissensaustausch anzustoßen.  Der nächste Stammtisch sieht hoffentlich auch die anderen Interessierten, die diesmal leider verhindert waren.
+
+Themenschwerpunkt des Stammtisches war die Mehrsprachigkeit von Shops.  Benno Lippert (mash2) skizzierte in seinem Vortrag einige Fallen und bot mögliche Lösungen an.  Das Thema wurde von allen begeistert aufgegriffen und rege diskutiert.  Dabei wurden einige sehr konstruktive Lösungsansätze angedacht.  Manch eine abstruse Idee sorgte auch für viel Gelächter.  Kreativität ist alles.
+
+![Benno Lippert referiert über Multi-Language Shops](/assets/images/2014-05-07/1.jpg "Benno Lippert referiert über Multi-Language Shops")
+<br>
+*Benno Lippert referiert über Multi-Language Shops*
+
+Immer wieder spannend zu hören sind die diversen Anforderungen, die Shop-Betreiber so haben können.  Auch hier scheint das Spektrum sehr weit zu sein.
+
+Jeder Stammtisch ist ausdrücklich offen für alle Magento-Interessierten – unabhängig von ihrem Hintergrundwissen.  Deshalb freuten sich die teilnehmenden Magento-Experten diesmal besonders über anwesende Shopbetreiber, die planen Magento einzusetzen.  Man sparte nicht mit guten, ausführlichen Ratschlägen, getreu dem Motto: Unser Wissen wird genauso geteilt wie die Pizza.  Die war übrigens echt lecker.
+
+![2. OWL Magento-Stammtisch in Paderborn](/assets/images/2014-05-07/2.jpg "2. OWL Magento-Stammtisch in Paderborn")
+<br>
+*2. OWL Magento-Stammtisch in Paderborn*
+
+Wegen angeregter Unterhaltung wurde das Ende des Stammtisches stark hinaus gezögert.  Einige Teilnehmer freuten sich bereits auf die bevorstehende Meet Magento in Leipzig.  Hiervon wird beim nächsten Stammtisch zu berichten sein.  Wir sind gespannt.
+
+Damit alle Anwesenden auf jeden Fall dabei sein können, wurde sogleich ein neuer Termin festgelegt.  Man trifft sich wieder am
+
+**02.07.2014 ab 19:00 Uhr**
+
+**im Cafe-Bistro, Technologiepark 13, 33100 Paderborn**
+
+maxcluster wird sich um die Organisation kümmern und steht deshalb auch für Fragen und Anregungen – besonders hinsichtlich der Themenschwerpunkte – zur Verfügung:  05258-414130
