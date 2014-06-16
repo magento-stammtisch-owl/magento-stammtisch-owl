@@ -11,7 +11,7 @@ categories: events
 ---
 
 * Magento Datenaufbereitung für Magento-Shops mit XQuery und BaseX - Andreas Rulle von Nexoma
-* Die neuen Verbraucherrichtlinien 2014 
+* Magento und HHVM - Damian Luszcymak von Solrgento
 
 ### Location
 
