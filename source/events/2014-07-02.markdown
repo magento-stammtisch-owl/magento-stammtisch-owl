@@ -10,8 +10,8 @@ topics: Magento Multistore Best Practice und Meet Magento Diskussionsrunde
 categories: events
 ---
 
-* Magento Entwickler Thema
-* Magento Business Thema
+* Magento Datenaufbereitung für Magento-Shops mit XQuery und BaseX - Andreas Rulle von Nexoma
+* Die neuen Verbraucherrichtlinien 2014 
 
 ### Location
 
