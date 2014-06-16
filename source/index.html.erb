@@ -21,7 +21,17 @@ title: Magento Stammtisch OWL
 
   <%= next_event.render_partial %>
 
-  <%= render_map(next_event.address, next_event.location) %>
+  <div class="map">
+        <img src="/assets/images/map.png">
+        <span class="map-links">
+          <a href="http://www.openstreetmap.org/?mlat=51.7014045&amp;mlon=8.763188999999999&amp;zoom=16">Openstreetmap</a>
+          <a href="http://maps.google.com/maps?q=Technologiepark%2013%2C%2033100%20Paderborn&amp;ll=51.7014045,8.763188999999999&amp;t=m&amp;z=16">Google Maps</a>
+        </span>
+        <span class="attribution">
+          &copy; <a href="http://www.openstreetmap.org">OpenStreetMap</a> contributors,
+          <a href="http://www.openstreetmap.org/copyright">Lizenz</a>
+        </span>
+  </div>
 </section>
 
 <% if past_events.any? %>
