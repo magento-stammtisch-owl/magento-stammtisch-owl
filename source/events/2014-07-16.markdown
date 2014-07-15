@@ -11,8 +11,8 @@ categories: events
 ---
 
 *  Magento und HHVM - Damian Luszcymak von Solrgento
-*  kleine Grillparty! 
 *  Austausch von Magento Erfahrung
+*  kleine Grillparty! - Für das Wohl aller ist gesorgt. 
 
 ### Location
 
