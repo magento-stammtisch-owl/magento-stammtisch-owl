@@ -3,7 +3,7 @@ layout: post
 title:  "Magento-Stammtisch am 16.07.2014 um 19 Uhr"
 date:   2014-06-13 15:03:30
 event-date: 2014-07-16 19:00:00+02:00
-location: Dachterasse ,Technologiepark 19
+location: Dachterasse,Technologiepark 19
 location-text: bei der maxcluster GmbH, Technologiepark 19
 address: Technologiepark 19, 33100 Paderborn
 topics: Magento Multistore Best Practice und Meet Magento Diskussionsrunde
@@ -11,6 +11,8 @@ categories: events
 ---
 
 *  Magento und HHVM - Damian Luszcymak von Solrgento
+*  kleine Grillparty! 
+*  Austausch von Magento Erfahrung
 
 ### Location
 
