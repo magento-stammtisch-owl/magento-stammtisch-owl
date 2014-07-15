@@ -10,8 +10,7 @@ topics: Magento Multistore Best Practice und Meet Magento Diskussionsrunde
 categories: events
 ---
 
-* Magento Datenaufbereitung für Magento-Shops mit XQuery und BaseX - Andreas Rulle von Nexoma
-* Magento und HHVM - Damian Luszcymak von Solrgento
+*  Magento und HHVM - Damian Luszcymak von Solrgento
 
 ### Location
 
