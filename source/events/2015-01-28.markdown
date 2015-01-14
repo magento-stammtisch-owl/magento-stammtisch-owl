@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Magento-Stammtisch am 28.01.2015 um 19 Uhr"
+date:   2015-01-28 15:03:30
+event-date: 2015-01-28 20:00:00+02:00
+location: Bistro Technologiepark Paderborn
+location-text: in Raum F
+address: Technologiepark 13, 33100 Paderborn
+topics: Solrgento und Elasticsearch
+categories: events
+---
+
+*  Solrgento - Damian Luszcymak von Solrgento
+*  Elasticsearch - Bernhard Lippert
+
+### Location
