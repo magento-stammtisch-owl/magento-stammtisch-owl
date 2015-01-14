@@ -10,7 +10,9 @@ topics: Solrgento und Elasticsearch
 categories: events
 ---
 
+*  Vorstellung
 *  Solrgento - Damian Luszcymak von Solrgento 
 *  Elasticsearch - Bernhard Lippert von mash2
+*  Allgemeine Diskussionsrunde
 
 ### Location
