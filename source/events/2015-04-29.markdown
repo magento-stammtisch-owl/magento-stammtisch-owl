@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Magento-Stammtisch am 28.01.2015 um 19 Uhr"
+date:   2015-01-29 15:03:30
+event-date: 2015-01-29 20:00:00+02:00
+location: Bistro Technologiepark Paderborn
+location-text: in Raum B
+address: Technologiepark 13, 33100 Paderborn
+topics: Solrgento und Elasticsearch
+categories: events
+---
+
+*  Vorstellung
+*  Clipvilla - einfache und professionelle Videos für Magento produzieren - Jens Neumann
+*  Case Study design-bestseller.de: Magentos Herausforderungen an das Katalogmanagement - Benno Lippert von mash2
+*  Allgemeine Diskussionsrunde
+
+### Location
