@@ -11,7 +11,7 @@ categories: events
 ---
 
 *  Vorstellung
-*  Einfach professionell Videos für Magento produzieren - Jens Neumann von ClipVilla
+*  Einfach professionell Videos für Magento produzieren - Jens Neumann, CEO ClipVilla und Thomas von Gostomski / Webentwickler ClipVilla/ neusta sd
 *  Case Study design-bestseller.de: Magentos Herausforderungen an das Katalogmanagement - Benno Lippert von mash2
 *  Allgemeine Diskussionsrunde
 
