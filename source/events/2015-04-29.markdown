@@ -6,13 +6,16 @@ event-date: 2015-04-29 19:00:00+02:00
 location: Bistro Technologiepark Paderborn
 location-text: in Raum B
 address: Technologiepark 13, 33100 Paderborn
-topics: Solrgento und Elasticsearch
+topics: Einfach professionell Videos für Magento produzieren und Case Study design-bestseller.de: Magentos Herausforderungen an das Katalogmanagement
 categories: events
 ---
 
 *  Vorstellung
-*  Einfach professionell Videos für Magento produzieren - Jens Neumann, CEO ClipVilla und Thomas von Gostomski / Webentwickler ClipVilla/ neusta sd
+*  Einfach professionell Videos für Magento produzieren - Jens Neumann, CEO ClipVilla und Thomas von Gostomski / Webentwickler ClipVilla/ neusta sd  - https://www.youtube.com/watch?v=hNsruVoQb8o
 *  Case Study design-bestseller.de: Magentos Herausforderungen an das Katalogmanagement - Benno Lippert von mash2
-*  Allgemeine Diskussionsrunde
+*  Allgemeine Diskussionsrunde - https://www.youtube.com/watch?v=6SClnNdQym8
+*
+*  
+
 
 ### Location
