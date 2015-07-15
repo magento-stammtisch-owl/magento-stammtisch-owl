@@ -6,7 +6,7 @@ event-date: 2014-07-16 19:00:00+02:00
 location: Dachterasse,Technologiepark 19
 location-text: bei der maxcluster GmbH, Technologiepark 19
 address: Technologiepark 19, 33100 Paderborn
-topics: Magento Multistore Best Practice und Meet Magento Diskussionsrunde
+topics: HHVM und der Austausch von Magento
 categories: events
 ---
 
