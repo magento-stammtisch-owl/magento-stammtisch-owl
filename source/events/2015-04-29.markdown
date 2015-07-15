@@ -2,11 +2,11 @@
 layout: post
 title:  "Magento-Stammtisch am 29.04.2015 um 19 Uhr"
 date:   2015-04-29 15:03:30
-event-date: 2015-04-29 19:00:00+02:00
+event-date: 2015-04-29 20:00:00+02:00
 location: Bistro Technologiepark Paderborn
 location-text: in Raum B
 address: Technologiepark 13, 33100 Paderborn
-topics: Einfach professionell Videos für Magento produzieren und Case Study design-bestseller.de: Magentos Herausforderungen an das Katalogmanagement
+topics: Einfach professionell Videos für Magento produzieren und Case Study design-bestseller.de: Magentos Herausforderungen
 categories: events
 ---
 
@@ -14,8 +14,12 @@ categories: events
 *  Einfach professionell Videos für Magento produzieren - Jens Neumann, CEO ClipVilla und Thomas von Gostomski / Webentwickler ClipVilla/ neusta sd  - https://www.youtube.com/watch?v=hNsruVoQb8o
 *  Case Study design-bestseller.de: Magentos Herausforderungen an das Katalogmanagement - Benno Lippert von mash2
 *  Allgemeine Diskussionsrunde - https://www.youtube.com/watch?v=6SClnNdQym8
-*
-*  
+
+### Location
+
+
+
+
 
 
 ### Location
