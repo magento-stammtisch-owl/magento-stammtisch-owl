@@ -6,7 +6,7 @@ event-date: 2015-04-29 20:00:00+02:00
 location: Bistro Technologiepark Paderborn
 location-text: in Raum B
 address: Technologiepark 13, 33100 Paderborn
-topics: Einfach professionell Videos für Magento produzieren und Case Study design-bestseller.de: Magentos Herausforderungen
+topics: "Einfach professionell Videos für Magento produzieren und Case Study design-bestseller.de: Magentos Herausforderungen"
 categories: events
 ---
 
