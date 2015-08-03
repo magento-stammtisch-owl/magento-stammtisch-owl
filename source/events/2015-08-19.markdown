@@ -11,8 +11,8 @@ categories: events
 ---
 
 *  Vorstellung
-*  Thema 1 
-*  Thema 2
+*  Pflege für den Kunden vereinfachen: Startseiten und Landingpages einfach bauen mit Easytemplate - Tobias Vogt, WEBGUYS
+*  Magento 2 - Damian Luszczymak, maxcluster 
 *  Allgemeine Diskussionsrunde
 
 ### Location
