@@ -6,7 +6,7 @@ event-date: 2015-11-05 19:00:00+01:00
 location: Bistro Technologiepark Paderborn
 location-text: in Raum A
 address: Technologiepark 13, 33100 Paderborn
-topics: "Der rechtssichere Webshop" und Thema 2
+topics: Der rechtssichere Webshop und Thema 2
 categories: events
 ---
 
