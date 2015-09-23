@@ -1,1 +1,18 @@
+---
+layout: post
+title:  "Magento-Stammtisch am 19.08.2015 um 19 Uhr"
+date:   2015-08-19 15:03:30
+event-date: 2015-08-19 19:00:00+02:00
+location: Bistro Technologiepark Paderborn
+location-text: in Raum A
+address: Technologiepark 13, 33100 Paderborn
+topics: Thema 1 und Thema 2
+categories: events
+---
 
+*  Vorstellung
+*  Pflege für den Kunden vereinfachen: Startseiten und Landingpages einfach bauen mit Easytemplate - Tobias Vogt, WEBGUYS - Video: <a href='https://youtu.be/FhMM2gK8EBo'>https://youtu.be/FhMM2gK8EBo</a>
+*  Magento 2 - Damian Luszczymak, maxcluster  Video: <a href='https://www.youtube.com/watch?v=_wqSeA7iQhY'>https://www.youtube.com/watch?v=_wqSeA7iQhY</a>
+*  Allgemeine Diskussionsrunde
+
+### Location
