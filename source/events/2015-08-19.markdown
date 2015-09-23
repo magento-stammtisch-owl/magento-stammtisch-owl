@@ -6,7 +6,7 @@ event-date: 2015-08-19 19:00:00+02:00
 location: Bistro Technologiepark Paderborn
 location-text: in Raum A
 address: Technologiepark 13, 33100 Paderborn
-topics: Thema 1 und Thema 2
+topics:  Pflege für den Kunden vereinfachen und Magento 2
 categories: events
 ---
 
