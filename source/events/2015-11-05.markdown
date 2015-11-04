@@ -11,9 +11,7 @@ categories: events
 ---
 
 *  Vorstellung
-*  „Der rechtssichere Webshop“
-Impressumspflicht, Datenschutzerklärung, Domains, Urheberrecht, Social Media und Co. – hilfreiche Tipps zur Gestaltung von Webshops. - Carola Sieling - kanzlei-sieling.de
-*  Thema 2 noch offen
+*  Der Vortrag "Der rechtssichere Webshop" wird auf den nächsten Stammtisch gelegt. Bei dem morgigen Stammtisch wird es dieses mal keinen Vortrag geben. Die Teilnehmer berichten über die Meet Magento Polen und Schweiz. Zusätzlich wird Magento 2 diskutiert.
 *  Allgemeine Diskussionsrunde
 
 ### Location
