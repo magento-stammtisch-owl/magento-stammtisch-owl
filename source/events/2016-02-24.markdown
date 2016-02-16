@@ -11,6 +11,8 @@ categories: events
 ---
 
 *  Vorstellung
+*  Welche Funktionen bietet der Import/Export von Magento 2 out of the box (Benno Lippert)
+*  NGINX Einführung (Damian Luszczymak)
 *  Allgemeine Diskussionsrunde
 
 ### Location
