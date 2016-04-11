@@ -13,5 +13,3 @@ categories: events
 *  Vorstellung
 *  Lightning Talks (max. 10-15 min)
 *  Allgemeine Diskussionsrunde
-
-### Location

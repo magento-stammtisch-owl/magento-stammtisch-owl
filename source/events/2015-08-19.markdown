@@ -15,4 +15,3 @@ categories: events
 *  Magento 2 - Damian Luszczymak, maxcluster  Video: <a href='https://www.youtube.com/watch?v=_wqSeA7iQhY'>https://www.youtube.com/watch?v=_wqSeA7iQhY</a>
 *  Allgemeine Diskussionsrunde
 
-### Location

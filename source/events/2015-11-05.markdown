@@ -14,4 +14,3 @@ categories: events
 *  Der Vortrag "Der rechtssichere Webshop" wird auf den nächsten Stammtisch gelegt. Bei dem morgigen Stammtisch wird es dieses mal keinen Vortrag geben. Die Teilnehmer berichten über die Meet Magento Polen und Schweiz. Zusätzlich wird Magento 2 diskutiert.
 *  Allgemeine Diskussionsrunde
 
-### Location

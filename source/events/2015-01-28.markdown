@@ -14,5 +14,3 @@ categories: events
 *  Solrgento - Damian Luszcymak von Solrgento 
 *  Elasticsearch - Bernhard Lippert von mash2
 *  Allgemeine Diskussionsrunde
-
-### Location

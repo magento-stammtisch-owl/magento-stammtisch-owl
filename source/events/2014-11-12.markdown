@@ -12,6 +12,3 @@ categories: events
 
 *  Docker - Damian Luszcymak von Solrgento
 *  magerun - Carsten Bohuslav von maxcluster
-
-### Location
-

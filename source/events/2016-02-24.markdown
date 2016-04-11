@@ -15,4 +15,3 @@ categories: events
 *  NGINX Einführung (Damian Luszczymak)
 *  Allgemeine Diskussionsrunde
 
-### Location
