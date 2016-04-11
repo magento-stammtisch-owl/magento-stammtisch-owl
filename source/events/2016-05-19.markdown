@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Magento-Stammtisch am 05.11.2015 um 19 Uhr"
+title:  "Magento-Stammtisch am 19.05.2016 um 19 Uhr"
 date:   2016-05-19 12:32:30
 event-date: 2016-05-19 19:00:00+01:00
 location: Bistro Technologiepark Paderborn
