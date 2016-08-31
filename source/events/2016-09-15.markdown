@@ -12,5 +12,5 @@ categories: events
 
 *  Vorstellung
 *  Magento und Redis
-*  Höhle des Löwen Traffix stemmen
+*  Höhle des Löwen Traffic stemmen
 *  Allgemeine Diskussionsrunde
