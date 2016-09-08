@@ -2,7 +2,7 @@
 layout: post
 title:  "Magento-Stammtisch am 15.09.2016 um 19 Uhr"
 date:   2016-09-15 12:32:30
-event-date: 2016-09-15 19:00:00+01:00
+event-date: 2016-09-15 18:00:00+01:00
 location: Bistro Technologiepark Paderborn
 location-text: Bistro Technologiepark Paderborn in Raum A
 address: Technologiepark 13, 33100 Paderborn
