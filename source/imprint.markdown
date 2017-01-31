@@ -5,7 +5,7 @@ title: Impressum
 ## Impressum
 
 maxcluster GmbH<br>
-Technologiepark 19<br>
+Technologiepark 8<br>
 33100 Paderborn<br>
 <br>
 **Telefon:** 05251 414130<br>
