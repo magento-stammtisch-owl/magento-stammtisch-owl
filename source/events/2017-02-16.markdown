@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Magento-Stammtisch am 16.02.2017 um 19 Uhr"
+date:   2017-02-15 12:32:30
+event-date: 2017-02-16 18:00:00+01:00
+location: Bistro Technologiepark Paderborn
+location-text: Bistro Technologiepark Paderborn in Raum B
+address: Technologiepark 13, 33100 Paderborn
+topics: Höhle des Löwen Traffic stemmen
+categories: events
+---
+
+*  Vorstellung
+*  Brainfood - konzentriert im Job und Alltag
+*  Varnish vs. SSL? - Auswirkungen von Googles SSL-Zwang auf die Shop Performance
+*  Austausch
