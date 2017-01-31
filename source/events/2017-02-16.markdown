@@ -14,3 +14,6 @@ categories: events
 *  Brainfood - konzentriert im Job und Alltag
 *  Varnish vs. SSL? - Auswirkungen von Googles SSL-Zwang auf die Shop Performance
 *  Austausch
+
+Anmeldung: https://www.xing.com/events/magento-stammtisch-paderborn-1760894
+oder: https://www.facebook.com/events/1841146492768237/
