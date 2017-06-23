@@ -6,7 +6,7 @@ event-date: 2017-02-16 19:00:00+01:00
 location: Bistro Technologiepark Paderborn
 location-text: im Technologiepark 13, Bistro, Raum B
 address: Technologiepark 13, 33100 Paderborn
-topics: Höhle des Löwen Traffic stemmen
+topics: Varnish vs. SSL? - Auswirkungen von Googles SSL-Zwang auf die Shop Performance
 categories: events
 ---
 
