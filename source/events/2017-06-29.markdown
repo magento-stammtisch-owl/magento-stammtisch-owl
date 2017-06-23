@@ -4,7 +4,7 @@ title:  "Magento-Stammtisch am 29.06.2017 um 19 Uhr"
 date:   2017-02-15 12:32:30
 event-date: 2017-06-29 18:00:00+01:00
 location: Bistro Technologiepark Paderborn
-location-text: Bistro Raum A
+location-text: im Bistro Raum A, Technologiepark 13,
 address: Technologiepark 13, 33100 Paderborn
 topics: Lizards & Pumpkins + Onlineshops mit viel Wachstum in eine Managed Hosting Architektur integrieren
 categories: events
