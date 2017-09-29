@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Magento-Stammtisch am 26.10.2017 um 19 Uhr"
+date:   2017-09-29 15:08:30
+event-date: 2017-10-26 19:00:00+01:00
+location: Garage33
+location-text: in der Garage33, Technologiepark 8,
+address: Technologiepark 8, 33100 Paderborn
+topics: Produkte in 3D im Shop darstellen + Onlineshops mit viel Wachstum in eine Managed Hosting Architektur integrieren
+categories: events
+---
+
+*  Vorstellung
+*  Produkte in 3D im Shop darstellen von Uwe Hüfner / Scanblue
+*  Wachstumsstarke Onlineshops in eine Managed Hosting Architektur integrieren von Johann Fot / maxcluster
+*  Austausch
+
+Anmeldung: <a href="https://www.xing.com/events/14-magento-stammtisch-paderborn-1827563>XING</a>
+oder <a href="https://www.facebook.com/events/1933225996897687/">Facebook</a> 
