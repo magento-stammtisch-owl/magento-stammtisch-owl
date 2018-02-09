@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Magento-Stammtisch am 05.03.2018 um 19 Uhr"
+date:   2018-02-09 10:08:30
+event-date: 2018-03-05 19:00:00+01:00
+location: Garage33
+location-text: in der Garage33, Technologiepark 8,
+address: Technologiepark 8, 33100 Paderborn
+topics: Wie wirkt sich die EU-DSGVO auf Onlineshop- und Webseitenbetreiber aus + The State of Magento: Review 2017 and Outlook 2018
+categories: events
+---
+
+*  Vorstellung
+*  Wie wirkt sich die EU-DSGVO auf Onlineshop- und Webseitenbetreiber aus? Risiken erkennen und Abmahnungen vermeiden / Carola Sieling - www.kanzlei-sieling.de
+*  The State of Magento: Review 2017 and Outlook 2018 Andreas von Studnitz - www.integer-net.de 
+*  Austausch
+
+Anmeldung: <a href="https://www.xing.com">XING</a>
+oder <a href="https://www.facebook.com">Facebook</a> 
