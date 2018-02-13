@@ -4,7 +4,7 @@ title:  "Magento-Stammtisch am 05.03.2018 um 19 Uhr"
 date:   2018-02-09 10:08:30
 event-date: 2018-03-05 19:00:00+01:00
 location: Garage33
-location-text: in der Garage33, Technologiepark 8,
+location-text: in der garage33, Technologiepark 8,
 address: Technologiepark 8, 33100 Paderborn
 topics: Auswirkung der EU-DSGVO auf Onlineshop und The State of Magento
 categories: events
