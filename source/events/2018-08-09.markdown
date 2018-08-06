@@ -2,7 +2,7 @@
 layout: post
 title:  "Magento-Stammtisch am 09.08.2018 um 19 Uhr"
 date:   2018-08-09 10:08:30
-event-date: 2018-09-08 18:00:00+01:00
+event-date: 2018-08-09 18:00:00+01:00
 location: Garage33
 location-text: in der garage33, Technologiepark 8,
 address: Technologiepark 8, 33100 Paderborn
